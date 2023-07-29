@@ -1,0 +1,20 @@
+[
+    {
+      "url" : "https://demo.nopcommerce.com/",
+    "email": "BB28WSxx@test.com",
+    "password" : "Fmcnvfu6623",
+    "product"   : "Apple MacBook Pro 13-inch",
+     "FirstName":  "Ahmed",
+        "LastName": "Gamal",
+      "NewPassword": "Ahmmd1623",
+      "ConfirmNewPassword": "Ahmmd1623",
+      "name" : "Ahmed Gamal",
+      "Enquiry" : "Thank You",
+      "FriendEmail": "b6gbbg@test.com",
+      "message": "This Product is very good",
+      "title" :  "Valuable features",
+      "text" : "Thanks for the services provided with the product",
+      "p1": "Apple MacBook Pro 13-inch",
+      "p2": "Asus N551JK-XO076H Laptop"
+    }
+]
